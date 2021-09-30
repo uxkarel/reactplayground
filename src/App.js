@@ -9,7 +9,7 @@ function App() {
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
-        <p class="text-red-100">You have a new message!</p>
+        <p class="text-red-100">Why tailwind does NOT work ?</p>
         <a
           className="App-link"
           href="https://reactjs.org"
